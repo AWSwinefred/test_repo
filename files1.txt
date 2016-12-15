@@ -1,0 +1,8 @@
+This file is used to test some git commands.
+
+Initial Versions
+second commit
+third commit
+
+firsh commit on branch develop
+second commit on branch develop after third squash on master
